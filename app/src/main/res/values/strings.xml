@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GuessTheDay</string>
+    <string name="textview"><b>Welcome, Lets Practice</b></string>
+    <string name="button">Start</string>
+</resources>
